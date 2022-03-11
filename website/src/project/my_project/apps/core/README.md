@@ -16,3 +16,9 @@ keep the model mixins in the reusable app itself, possibly in a base.py file.
 ---------------------------------------
 # show image in admin panel
 is instance in models.py and admin.py
+
+
+----------------------------------------
+# security in django pakage
+pip install django-admin-honeypot==1.1.0
+pip install django-csp==3.6
